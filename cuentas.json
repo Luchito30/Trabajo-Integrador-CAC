@@ -1,0 +1,17 @@
+{
+    "id1": {
+        "titular": "ale",
+        "cantidad": 850000.0,
+        "bonificacion": 50.0
+    },
+    "id2": {
+        "titular": "pepe",
+        "cantidad": 10000.0,
+        "bonificacion": 20.0
+    },
+    "id3": {
+        "titular": "teresa",
+        "cantidad": 80000.0,
+        "bonificacion": null
+    }
+}
